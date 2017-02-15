@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Teste Aware</string>
+    <string name="btChange">Change</string>
+    <string name="btReset">Reset</string>
+    <string name="lblName">Recipe name:</string>
+    <string name="lblDate">Date:</string>
+    <string name="lblHour">Hour:</string>
+    <string name="lblLocation">Location:</string>
+    <string name="lblActivity">Activity:</string>
+    <string name="lblHeadphone">Headphone:</string>
+</resources>

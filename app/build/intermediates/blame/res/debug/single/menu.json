@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/pma035/AndroidStudioProjects/TesteAware/app/build/intermediates/res/merged/debug/menu/edit_title_bar.xml",
+        "source": "/Users/pma035/AndroidStudioProjects/TesteAware/app/src/main/res/menu/edit_title_bar.xml"
+    },
+    {
+        "merged": "/Users/pma035/AndroidStudioProjects/TesteAware/app/build/intermediates/res/merged/debug/menu/list_title_bar.xml",
+        "source": "/Users/pma035/AndroidStudioProjects/TesteAware/app/src/main/res/menu/list_title_bar.xml"
+    }
+]
