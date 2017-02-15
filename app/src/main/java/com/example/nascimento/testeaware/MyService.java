@@ -17,6 +17,5 @@ public class MyService extends ContextRegisterService {
 
     @Override
     protected void doCreateNewContext() {
-        //teste
     }
 }
